@@ -1,4 +1,0 @@
-eat
-clean
-play
-throw

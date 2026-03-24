@@ -13,7 +13,6 @@ window = sg.Window(title="Free Simple GUI",
                    layout=[[label], [input_box,add_button], [list_box,edit_button]],
                    font=("Helvetica",16))
 
-print()
 
 while True:
     event, values = window.read()
